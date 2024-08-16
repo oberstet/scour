@@ -1,5 +1,9 @@
 # Scour
 
+**IMPORTANT: The main development repository for the Scour project has been moved to [Inkscape/GitLab](https://gitlab.com/inkscape/extras/scour). Please see the discussion and original maintainers agreements on [this issue](https://github.com/scour-project/scour/issues/321).**
+
+-----
+
 [![PyPI](https://img.shields.io/pypi/v/scour.svg)](https://pypi.python.org/pypi/scour "Package listing on PyPI")
  
 [![Build status](https://img.shields.io/travis/scour-project/scour.svg)](https://travis-ci.org/scour-project/scour "Build status (via TravisCI)")
